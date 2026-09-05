@@ -1,34 +1,58 @@
-<!-- Red Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=200&section=header&text=Hi%20there,%20I'm%20Meik!%20%E2%9D%A4%EF%B8%8F&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%" />
-</p>
+<div align="center">
 
-<!-- Profile Badges with Red Color Palette -->
-<p align="center">
-  <img src="https://img.shields.io/badge/BS_Nursing-Student-dc2626?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Age-22-b91c1c?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Clinical_Duties-991b1b?style=for-the-badge&logoColor=white" />
-</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=200&section=header&text=Hi%20there,%20I'm%20Mikay!%20♡&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=Nursing+Student;Future+Registered+Nurse;Passionate+Healthcare+Provider" />
-</p>
+  <h3>🩺 4th Year Nursing Student | 📸 Photography | 🎾 Pickleball</h3>
+
+  <!-- Red Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Age-22-red?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Field-Nursing%20%F0%9F%A9%BA-dc2626?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Senior%20Student-b91c1c?style=for-the-badge" />
+  </p>
+
+</div>
 
 ---
 
-### 🩺 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" /> About Me
 
 <blockquote align="left">
-  <p><b>Hi everyone!</b> My name is <b>Meikylla Mantalaba</b>, but you can call me <b>Mikay</b>. I’m 22 years old, and I’m currently a fourth-year Bachelor of Science in Nursing student.</p>
-  <p>I would describe myself as a friendly, hardworking, and sometimes quiet person, especially when I’m still getting comfortable with people. I enjoy spending time with the people I love, taking pictures, listening to music, and playing pickleball whenever I have free time. I also enjoy trying different foods and going out with my friends and family.</p>
-  <p>As a nursing student, one of my goals is to become a competent and compassionate nurse who can provide quality care to my patients. Nursing can be challenging, but I believe that every experience, especially during clinical duties, helps me grow and become more confident in what I do.</p>
-  <p>I’m still learning a lot about myself and about nursing, but I’m excited to continue improving, gaining new experiences, and making meaningful memories along the way.</p>
-  <p>That’s a little about me. Thank you! ♡</p>
+<font color="#dc2626">
+
+Hi everyone! My name is **Meikylla Mantalaba**, but you can call me **Mikay**. I’m 22 years old, and I’m currently a fourth-year Bachelor of Science in Nursing student.
+
+I would describe myself as a friendly, hardworking, and sometimes quiet person, especially when I’m still getting comfortable with people. I enjoy spending time with the people I love, taking pictures, listening to music, and playing pickleball whenever I have free time. I also enjoy trying different foods and going out with my friends and family.
+
+</font>
 </blockquote>
 
 ---
 
-<!-- Red Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=100&section=footer" width="100%" />
-</p>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Syringe.png" width="25" /> Nursing Journey & Goals
+
+<blockquote align="left">
+<font color="#dc2626">
+
+As a nursing student, one of my goals is to become a competent and compassionate nurse who can provide quality care to my patients. Nursing can be challenging, but I believe that every experience, especially during clinical duties, helps me grow and become more confident in what I do.
+
+I’m still learning a lot about myself and about nursing, but I’m excited to continue improving, gaining new experiences, and making meaningful memories along the way.
+
+</font>
+</blockquote>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="25" /> Things I Love
+
+* 📸 **Photography:** Taking pictures and capturing special memories.
+* 🎵 **Music:** Listening to music in my free time.
+* 🎾 **Sports:** Playing pickleball with friends.
+* 🍜 **Food & Outings:** Trying new foods and exploring new places with my family and friends.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=dc2626&height=40&text=Thank%20you%20for%20visiting!%20♡&fontSize=18&fontColor=ffffff" width="100%" />
+</div>

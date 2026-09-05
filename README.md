@@ -19,21 +19,12 @@
 ### 🩺 About Me
 
 <blockquote align="left">
-  <p><b>Hi everyone!</b> My name is <b>Meikylla Mantalaba</b>, but you can call me <b>Meik</b>. I’m 22 years old, and I’m currently a third-year Bachelor of Science in Nursing student.</p>
+  <p><b>Hi everyone!</b> My name is <b>Meikylla Mantalaba</b>, but you can call me <b>Mikay</b>. I’m 22 years old, and I’m currently a fourth-year Bachelor of Science in Nursing student.</p>
   <p>I would describe myself as a friendly, hardworking, and sometimes quiet person, especially when I’m still getting comfortable with people. I enjoy spending time with the people I love, taking pictures, listening to music, and playing pickleball whenever I have free time. I also enjoy trying different foods and going out with my friends and family.</p>
   <p>As a nursing student, one of my goals is to become a competent and compassionate nurse who can provide quality care to my patients. Nursing can be challenging, but I believe that every experience, especially during clinical duties, helps me grow and become more confident in what I do.</p>
   <p>I’m still learning a lot about myself and about nursing, but I’m excited to continue improving, gaining new experiences, and making meaningful memories along the way.</p>
   <p>That’s a little about me. Thank you! ♡</p>
 </blockquote>
-
----
-
-### 🔴 Quick Highlights
-
-* 💉 **Field of Study:** BS Nursing (3rd Year)
-* 🎯 **Career Goal:** Competent & Compassionate Nurse
-* 🎾 **Hobbies:** Pickleball, Photography, Music, Exploring New Foods
-* 🤝 **Personality:** Friendly, Hardworking, Thoughtful
 
 ---
 

@@ -24,26 +24,38 @@
 
 ---
 
-## 🌹 Course Folders
+<div align="center">
 
-### 🌹 1. Prelim
+## 🌹 Course Folders 🌹
+
+<br/>
+
+### 🌹 1. PRELIM
 > *Contains my Prelim outputs, activities, and project documentation.*
 
-[<img src="https://img.shields.io/badge/🌹_PRELIM_FOLDER-DC143C?style=for-the-badge&logo=github&logoColor=white" height="36">](./prelim)
+[<img src="https://img.shields.io/badge/🌹_PRELIM_FOLDER-DC143C?style=for-the-badge&logo=github&logoColor=white" width="380" height="55">](./prelim)
+
+<br/><br/>
 
 ---
 
-### 🥀 2. Midterm
+### 🥀 2. MIDTERM
 > *Contains my Midterm outputs, presentations, and deliverables.*
 
-[<img src="https://img.shields.io/badge/🥀_MIDTERM_FOLDER-B22222?style=for-the-badge&logo=github&logoColor=white" height="36">](./midterm)
+[<img src="https://img.shields.io/badge/🥀_MIDTERM_FOLDER-B22222?style=for-the-badge&logo=github&logoColor=white" width="380" height="55">](./midterm)
+
+<br/><br/>
 
 ---
 
-### ❤️ 3. Pre-Finals
+### ❤️ 3. PRE-FINALS
 > *Contains my Pre-Finals outputs, activities, and final requirements.*
 
-[<img src="https://img.shields.io/badge/❤️_PRE--FINALS_FOLDER-8B0000?style=for-the-badge&logo=github&logoColor=white" height="36">](./pre-finals)
+[<img src="https://img.shields.io/badge/❤️_PRE--FINALS_FOLDER-8B0000?style=for-the-badge&logo=github&logoColor=white" width="380" height="55">](./pre-finals)
+
+<br/><br/>
+
+</div>
 
 ---
 

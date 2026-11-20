@@ -24,10 +24,29 @@
 
 ---
 
-## 🌹 My Course Folders
+## 🌹 Course Folders
+
+### 🌹 1. Prelim
+> *Contains my Prelim outputs, activities, and project documentation.*
+
+[<img src="https://img.shields.io/badge/🌹_PRELIM_FOLDER-DC143C?style=for-the-badge&logo=github&logoColor=white" height="36">](./prelim)
+
+---
+
+### 🥀 2. Midterm
+> *Contains my Midterm outputs, presentations, and deliverables.*
+
+[<img src="https://img.shields.io/badge/🥀_MIDTERM_FOLDER-B22222?style=for-the-badge&logo=github&logoColor=white" height="36">](./midterm)
+
+---
+
+### ❤️ 3. Pre-Finals
+> *Contains my Pre-Finals outputs, activities, and final requirements.*
+
+[<img src="https://img.shields.io/badge/❤️_PRE--FINALS_FOLDER-8B0000?style=for-the-badge&logo=github&logoColor=white" height="36">](./pre-finals)
+
+---
 
 <div align="center">
-
-### ![](https://img.shields.io/badge/🌹%20TERM%20FOLDERS-REPOSITORY%20DIRECTORY-DC143C?style=for-the-badge)
-
-<br
+  <sub>🌹 Patience, Progress, and Purpose for GE 4120 | © 2026 Meikylla Mantalaba 🌹</sub>
+</div>

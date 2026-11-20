@@ -24,12 +24,10 @@
 
 ---
 
-## 🌹 My Showcase
+## 🌹 My Course Folders
 
 <div align="center">
 
-### ![](https://img.shields.io/badge/🌹%20PERIOD-PRELIMINARIES-DC143C?style=for-the-badge)
+### ![](https://img.shields.io/badge/🌹%20TERM%20FOLDERS-REPOSITORY%20DIRECTORY-DC143C?style=for-the-badge)
 
-<br/>
-
-| [<img src="https://img.shields.io/badge/🌹_FOLDER_1-DC143C?style=for-the-badge&logoColor=white" width="100%">](./Folder-1) | [<img src="https://img.shields.io/badge/🥀_FOLDER_2-B22222?style=for-the-badge&logoColor=white" width="100%">](./Folder-2) | [<img src="
+<br
